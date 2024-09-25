@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "352450014473",
+    "project_id": "webuildindaia",
+    "storage_bucket": "webuildindaia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352450014473:android:e4e090a902d204f743b7d8",
+        "android_client_info": {
+          "package_name": "com.Webuildindaia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToU4YQnocrwDxUvAahafDPAorOStuNgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352450014473:android:cb9ced5809660a4f43b7d8",
+        "android_client_info": {
+          "package_name": "com.Webuildindaia.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBToU4YQnocrwDxUvAahafDPAorOStuNgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

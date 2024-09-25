@@ -1,0 +1,9 @@
+{
+  "name": "Webuildindaia",
+  "displayName": "Webuildindaia",
+  
+    "react-native-google-mobile-ads": {
+      "android_app_id": "ca-app-pub-3894373802470247~3672547580",
+      "ios_app_id": "ca-app-pub-8863788478635375~1095493891"
+    }
+}
